@@ -45,7 +45,7 @@
         android:layout_gravity="center_horizontal"
         android:background="@drawable/rectangle_rounded_white"
         android:padding="20dp"
-        android:text="@string/password"
+        android:text="Halo halo bandung"
         android:textColor="@android:color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
